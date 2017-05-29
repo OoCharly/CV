@@ -1,0 +1,101 @@
+body {
+  width: 21cm;
+  height: 29.7cm;
+  margin: auto;
+  margin-top: 5px;
+  border: 1px solid black;
+}
+#wrapper{
+  height:100%;
+  overflow: hidden;
+}
+#left-pane{
+  padding: 10px;
+  width: 25%;
+  height: 1122.52px;
+  float: left;
+  border-right: solid 0.5px grey;
+  background-color: #326ada;
+  color:  #d4d8d4;
+}
+#left-pane ul{
+  font-size:14px;
+  padding-left:15px;
+}
+#container{
+  margin:0;
+  padding:0px;
+  width: 70%;
+  float: right;
+}
+#general-exp{
+  max-width:90%;
+  float:left;
+}
+.list-title{
+  display:block;
+  font-size: 18px;
+  border-bottom: solid 1px blue;
+  width:80%;
+}
+#title{
+  padding: 20px 10px 20px 10px;
+  text-align: center;
+  width: 90%;
+}
+#infos{
+  padding-left: 10px;
+}
+.description{
+  text-align: justify;
+  display: block;
+  font-size: 14px;
+}
+.description.short{
+  display: block;
+  font-style: bold;
+  font-size: 14px;
+}
+.list-separator{
+  color:#326ada;
+  font-size:20px;
+  display:block;
+  width:100%;
+  border-bottom: 1px solid black;
+}
+.exp-title{
+  color: #433e90;
+  display:block;
+  margin-top: 15px;
+  font-size: 16px;
+}
+.undoted{
+  list-style: none;
+}
+.info{
+  display:inline-flex;
+  padding-left: 5px;
+  font-size: 14px
+}
+.material-icons.md-12 {
+  font-size: 12px;
+}
+ul{
+  display:block;
+  font-size: 12px;
+}
+img{
+  display: block;
+  width:95%;
+}
+h1{
+  font-size:24px;
+}
+h2{
+  font-size: 20px;
+}
+@media print{
+  body{
+    page-break-after: always;
+  }
+}
