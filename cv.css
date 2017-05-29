@@ -1,3 +1,9 @@
+/*
+#273547
+#B9EEEB
+#576574
+#454855
+*/
 body {
   width: 21cm;
   height: 29.7cm;
@@ -8,6 +14,7 @@ body {
 #wrapper{
   height:100%;
   overflow: hidden;
+  font-family: sans-serif;
 }
 #left-pane{
   padding: 10px;
