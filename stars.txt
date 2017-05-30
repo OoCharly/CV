@@ -1,0 +1,65 @@
+<!--
+**notes:
+*5
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star</i>
+
+*4,5
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star_half</i>
+
+*4
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star_border</i>
+
+*3,5
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star_half</i>
+<i class="material-icons md-12">star_border</i>
+
+*3
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star_border</i>
+<i class="material-icons md-12">star_border</i>
+
+*2,5
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star_half</i>
+<i class="material-icons md-12">star_border</i>
+<i class="material-icons md-12">star_border</i>
+
+*2
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star_border</i>
+<i class="material-icons md-12">star_border</i>
+<i class="material-icons md-12">star_border</i>
+
+*1,5
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star_half</i>
+<i class="material-icons md-12">star_border</i>
+<i class="material-icons md-12">star_border</i>
+<i class="material-icons md-12">star_border</i>
+
+*1
+<i class="material-icons md-12">star</i>
+<i class="material-icons md-12">star_border</i>
+<i class="material-icons md-12">star_border</i>
+<i class="material-icons md-12">star_border</i>
+<i class="material-icons md-12">star_border</i>
+-->
