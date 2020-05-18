@@ -151,3 +151,18 @@ h2{
 .misc{
 	display: none;
 }
+#best{
+    font-size: 18px;
+    font-weight: bold;
+}
+.more{
+    font-style: italic;
+    font-weight: lighter;
+}
+#white{
+    color: white;
+}
+.hidden{
+    display: none;
+    color: #7180b9;
+}
