@@ -113,7 +113,6 @@ body {
   font-size: 12px;
 }
 .stars{
-  display:none;
   float:right;
 }
 .poste{
@@ -145,5 +144,10 @@ h2{
 @media print{
   body{
     page-break-after: always;
+    margin: 0;
+    box-shadow: 0;
   }
+}
+.misc{
+	display: none;
 }
